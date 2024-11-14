@@ -40,7 +40,7 @@ $conn->close();
         .container {
             max-width: 600px;
             margin: auto;
-            background: #fff;
+            background: lightgray;
             padding: 20px;
             border-radius: 8px;
             box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
@@ -64,7 +64,7 @@ $conn->close();
             padding-right: 10px;
         }
         .button {
-            background-color: #28a745;
+            background-color: #14919B;
             color: white;
             border: none;
             border-radius: 5px;
@@ -76,7 +76,7 @@ $conn->close();
             background-color: #218838;
         }
         .link-button {
-            background-color: #007bff;
+            background-color: #14919B;
             color: white;
             text-decoration: none;
             padding: 8px 12px;
@@ -84,7 +84,7 @@ $conn->close();
             transition: background-color 0.3s;
         }
         .link-button:hover {
-            background-color: #0056b3;
+            background-color: #14919B;
         }
         form {
             display: flex;

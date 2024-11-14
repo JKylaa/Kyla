@@ -50,7 +50,7 @@
             background-color: #218838;
         }
         .link-button {
-            background-color: #007bff;
+            background-color: #14919B;
             color: white;
             text-decoration: none;
             padding: 8px 12px;
@@ -58,7 +58,7 @@
             transition: background-color 0.3s;
         }
         .link-button:hover {
-            background-color: #0056b3;
+            background-color: #14919B;
         }
         form {
             display: flex;
